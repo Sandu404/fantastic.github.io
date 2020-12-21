@@ -1,5 +1,5 @@
 body{
-  background-image:'rainbow.jpeg';
+  background-image:url(rainbow.jpeg);
 }
 ul {
     list-style-type: none;
