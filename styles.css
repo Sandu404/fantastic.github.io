@@ -1,5 +1,7 @@
 body{
-  background-image:url(rainbow.jpeg);
+  background-image:url(imgs/rainbow.jpeg);
+  background-size:auto;
+  background-repeat: no-repeat;
 }
 ul {
     list-style-type: none;
