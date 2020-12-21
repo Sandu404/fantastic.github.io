@@ -1,3 +1,6 @@
+body{
+  background-image:'rainbow.jpeg';
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -17,4 +20,13 @@ ul {
   li a:hover {
     background-color: #555;
     color: white;
+  }
+  h2{
+    border:5px groove;
+    border-radius: 5px;
+  }
+  p{
+    background-color: aqua;
+    border:5px beige;
+    border-radius: 5px;
   }
