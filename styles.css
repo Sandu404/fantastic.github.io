@@ -1,7 +1,5 @@
 body{
-  background-image:url(imgs/rainbow.jpeg);
-  background-size:auto;
-  background-repeat: no-repeat;
+  background-color:lightseagreen;
 }
 ul {
     list-style-type: none;
@@ -24,11 +22,27 @@ ul {
     color: white;
   }
   h2{
-    border:5px groove;
-    border-radius: 5px;
+    text-align: center;
+    background-color: cornsilk;
+    border: 10px groove lightskyblue;
+    border-radius: 15px;
   }
-  p{
+  .class1{
+    font-family: sans-serif;
+    font-size: 1.96em;
     background-color: aqua;
-    border:5px beige;
-    border-radius: 5px;
+    border: 10px ridge lightseagreen; 
+    border-radius: 50px;
   }
+ #ocean-image{
+   position: absolute;
+   top: 300px;
+   left: 20px;
+ }
+ #ocean-text{
+   position: absolute;
+   top: 260px;
+   left: 330px;
+ }
+
+  
