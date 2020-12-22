@@ -24,16 +24,25 @@ ul {
   h2{
     text-align: center;
     background-color: cornsilk;
-    border: 10px groove aquamarine;
+    border: 10px groove lightskyblue;
     border-radius: 15px;
   }
   .class1{
     font-family: sans-serif;
     font-size: 1.96em;
     background-color: aqua;
-    border: 10px ridge lime; 
+    border: 10px ridge lightseagreen; 
     border-radius: 50px;
   }
- 
+ #ocean-image{
+   position: absolute;
+   top: 300px;
+   left: 20px;
+ }
+ #ocean-text{
+   position: absolute;
+   top: 260px;
+   left: 330px;
+ }
 
   
